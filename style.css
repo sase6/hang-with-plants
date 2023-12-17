@@ -16,6 +16,7 @@ body {
     height: 100vh;
     color: white;
     background-color: rgb(124, 143, 87);
+    overflow: hidden;
 }
 
 .content {
